@@ -27,7 +27,7 @@ paypal.configure({
       "transactions": [{
           "item_list": {
               "items": [{
-                  "name": "Red Sox Hat",
+                  "name": "Nike Blue Georgian  Hat",
                   "sku": "001",
                   "price": "25.00",
                   "currency": "USD",
@@ -38,7 +38,7 @@ paypal.configure({
               "currency": "USD",
               "total": "25.00"
           },
-          "description": "Hat for the best team ever"
+          "description": "Hat for the best college ever"
       }]
   };
   
